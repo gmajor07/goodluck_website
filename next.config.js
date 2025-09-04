@@ -1,12 +1,11 @@
-const isProd = process.env.NODE_ENV === "production";
- 
+/** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: isProd ? "/Next.js-Tailwind-CSS-Portfolio-Template" : "",
-  assetPrefix: isProd ? "/Next.js-Tailwind-CSS-Portfolio-Template/" : "",
   output: "export",
+  basePath: "",
+  assetPrefix: "",
   images: {
-    unoptimized: true,
+    unoptimized: true, // important for static export
   },
 };
- 
+
 module.exports = nextConfig;

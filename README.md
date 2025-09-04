@@ -9,8 +9,7 @@ Welcome to my personal website repository! I'm a passionate **Flutter & Web Deve
 - 🔗 RESTful API Integration
 - 🧠 Solo & Team Collaboration
 
-## 🌐 Live Website
-Check it out here: [yourwebsite.com](https://yourwebsite.com)
+
 
 ## 📂 Tech Stack
 - **Frontend**: Flutter, Dart, React, Vue.js
@@ -19,7 +18,6 @@ Check it out here: [yourwebsite.com](https://yourwebsite.com)
 
 ## 📬 Contact
 I'm actively seeking **remote opportunities** and open to collaboration.  
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/yourprofile) or email me at `your.email@example.com`.
 
 ---
 
